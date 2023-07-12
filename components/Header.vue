@@ -1,5 +1,5 @@
 <template>
-<Head>
+  <Head>
     <Title>Low Kick Esports</Title>
   </Head>
   <div class="pt-12">

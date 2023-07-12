@@ -1,4 +1,5 @@
-<Head>
+<template>
+  <Head>
     <Title>Low Kick Esports</Title>
   </Head>
   <div class="pt-12">
@@ -12,3 +13,4 @@
       <h2 class="text-primary text-base text-center font-medium tracking-wide m-auto w-[325px] sm:w-[325px] md:w-96 lg:w-[505px] xl:w-[505px] 2xl:w-[505px]">Broadcast production, field marketing, operations, and technology services for major gaming events.</h2>
     </div>
   </div>
+</template>
